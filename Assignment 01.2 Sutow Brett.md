@@ -23,10 +23,10 @@ author: Brett Sutow
 
 |                                           | Size     | # HD | 
 |-------------------------------------------|---------:|-----:|
-| Daily Twitter Tweets (Uncompressed)       | 640,000 MB   192 HDs    |      |128 * 500mill = 6,400,000,000 bytes * 3 HDs = 192,000,000/1mill
-| Daily Twitter Tweets (Snappy Compressed)  | 426,666 MB | .128 HDs     | 6,400,000,000/1000/1.5=426,666 * 3 HDs= 1,280,000
-| Daily Instagram Photos                    | 820,425MB  | .820 HDs     | 75k *  1.573mb + 25k * 6.22 = 117,975 + 155,500/1mill
-| Daily YouTube Videos                      | 4,299,264,000MB|  4299.264HDs    | 500Hrs * 60min = 30,000 min/15min video= 2,000 videos x 89,568MB*24hrs 
+| Daily Twitter Tweets (Uncompressed)       | 640,000 MB   192 HDs 128 * 500mill = 6,400,000,000 bytes * 3 HDs = 192,000,000/1mill   |      |128 * 500mill = 6,400,000,000 bytes * 3 HDs = 192,000,000/1mill
+| Daily Twitter Tweets (Snappy Compressed)  | 426,666 MB | .128 HDs  6,400,000,000/1000/1.5=426,666 * 3 HDs= 1,280,000   | 6,400,000,000/1000/1.5=426,666 * 3 HDs= 1,280,000
+| Daily Instagram Photos                    | 820,425MB  | .820 HDs 75k *  1.573mb + 25k * 6.22 = 117,975 + 155,500/1mill    | 75k *  1.573mb + 25k * 6.22 = 117,975 + 155,500/1mill
+| Daily YouTube Videos                      | 4,299,264,000MB|  4299.264HDs   500Hrs * 60min = 30,000 min/15min video= 2,000 videos x 89,568MB*24hrs   | 500Hrs * 60min = 30,000 min/15min video= 2,000 videos x 89,568MB*24hrs 
 | Yearly Twitter Tweets (Uncompressed)      | 233,600,000MB|70,080 HDs      |
 | Yearly Twitter Tweets (Snappy Compressed) | 155,733,090MB| 46.72 HDs     |
 | Yearly Instagram Photos                   | 299,455,125MB       |     299.3 HDs |
